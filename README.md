@@ -2,6 +2,11 @@
 # Consumer360: End-to-End Enterprise Retail Analytics Platform
 ### 🛠️ Individual Comprehensive Engineering Rebuild (V2)
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Database](https://img.shields.io/badge/Database-SQLite-lightgrey.svg)](https://www.sqlite.org/)
+[![PowerBI](https://img.shields.io/badge/Business%20Intelligence-Power%20BI-yellow.svg)](https://powerbi.microsoft.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 ---
 
 ## 📌 1. Project Overview & Strategic Vision
